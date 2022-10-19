@@ -1,11 +1,21 @@
 main {
-  min-height: 80vh;
+  min-height: 80vh !important;
+}
+h3 {
+  padding: 1rem 0 !important;
+}
+
+h2 {
+  font-size: 1.4rem !important;
+  padding: 1rem 0 !important;
+}
+
+h1 {
+  padding: 1 rem 0 !important;
+  font-size: 1.8 rem !important;
+  margin: 20px 0 !important;
 }
 
 .rating-span {
-  margin: 0.1 rem;
-}
-
-h3 {
-  padding: 1rem 0;
+  margin: 0.1 rem !important;
 }
